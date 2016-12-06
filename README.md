@@ -1,5 +1,4 @@
-# bztecno
 # //BZ WS Project:
-# // - whereisinternet.com 
-# // - vimeo.com/greyblind
-# // - bztecno.github.io/bztecno
+# // - Where is Internet whereisinternet.com 
+# // - Grey Blind Production vimeo.com/greyblind
+# // - BZ Web Solutions bztecno.github.io/bztecno
